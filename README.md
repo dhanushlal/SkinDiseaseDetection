@@ -39,13 +39,7 @@ A deep learning-based web app for **automatic skin disease classification** usin
 
 ---
 
-## 🖼️ Screenshots
 
-> Home Page  
-![Upload Page](screenshots/home.png)
-
-> Prediction Result  
-![Result Page](screenshots/result.png)
 
 ---
 
